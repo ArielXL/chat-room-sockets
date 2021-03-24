@@ -32,4 +32,4 @@ $ python client.py <hostname> <port>
 $ python client.py <hostname> <port>
 ```
 
-En caso de obviar los parámetros de entrada esperados por los ficheros anteriores nuestro pequeño chat escogerá los siguientes valores predeterminados: **hostname='localhost'** y **port=8080**.
+En caso de obviar los parámetros de entrada esperados por los ficheros anteriores nuestro pequeño chat escogerá los siguientes valores predeterminados: **hostname=127.0.0.1** y **port=8080**.
