@@ -25,7 +25,7 @@ $ pip3 install -r requirements.txt
 Para la ejecución, escriba las siguientes líneas en una terminal abierta en este directorio:
 
 ```bash
-$ cd Code
+$ cd src
 $ python server.py <hostname> <port>
 $ python client.py <hostname> <port>
  .......
